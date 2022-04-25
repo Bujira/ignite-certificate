@@ -5,7 +5,9 @@ jspm_packages
 # Serverless directories
 .serverless
 
-# esbuild directories
+# Webpack directories
+.webpack
 .esbuild
+.dynamodb
 
 .env
